@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-![5-Day Gen AI Intensive](https://via.placeholder.com/1200x300.png?text=5-Day+Gen+AI+Intensive+%7C+Google+2025)
-
 # 🧠 5-Day Gen AI Intensive with Google – Learning Journal
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/genai-intensive-google-2025)
@@ -44,7 +41,6 @@ I am exploring:
 - NotebookLM 📝  
 - Markdown & GitHub Pages 🌐  
 
----
 
 ## 🧠 Day-wise Learning Placeholders
 
@@ -89,9 +85,10 @@ I am exploring:
 - **💻 Code Labs:**  
 - **📚 Resources:**  
 - ![Example Output](https://via.placeholder.com/400x200.png?text=Bonus+Demo)
-
+  
 
 ## 📘 How to Use This Repo
 1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/genai-intensive-google-2025.git
+
